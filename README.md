@@ -1,2 +1,16 @@
 # webdev_lab1
 Lab 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Internet Technologies and Web Design</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>Instructions: rewrite this page by adding a few sentences about yourself. Follow the instructions in README.md to turn it in.</p>
+  <p>My name is Chelsei Marion. Im a first year student.</p>
+  <p>I major in Game design.</p>
+  <p>Im from Memphis, Tennessee</p>
+</body>
+</html>
